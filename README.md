@@ -34,4 +34,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abnerkallil&" alt="abnerkallil" /></p>
 
-![Codewars](https://github.r2v.ch/codewars?user=USERNAME&stroke=RED)
+![Codewars](https://github.r2v.ch/codewars?user=abnerkallil2204&stroke=RED)
