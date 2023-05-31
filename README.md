@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/abn_kal" target="blank"><img src="https://img.shields.io/twitter/follow/abn_kal?logo=twitter&style=for-the-badge" alt="abn_kal" /></a> </p>
 
-- 🔭 I’m currently working on [Bookshelf](https://github.com/abnerkallil/books-data)
+- 🔭 I’m currently working on [Pokedevs](https://github.com/abnerkallil/pokemon_cards_bank)
 
 - 🌱 I’m currently learning **React, vue, SQL**
 
