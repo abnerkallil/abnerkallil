@@ -1,4 +1,4 @@
-<h1 align="center">Olá! me chamo Abner.</h1>
+<h1 align="center">Olá! Me chamo Abner.</h1>
 
 <h3 align="center">Contabilidade • Ciência de Dados • Desenvolvimento de Sistemas</h3>
 
