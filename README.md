@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋, eu sou Abner Kallil</h1>
+<h1 align="center">Olá! me chamo Abner.</h1>
 
 <h3 align="center">Contabilidade • Ciência de Dados • Desenvolvimento de Sistemas</h3>
 
@@ -166,9 +166,6 @@ Mais do que ensinar, quero construir uma base que eu mesmo possa consultar no fu
 <p align="left">
   <a href="https://www.linkedin.com/in/abnerkallildev/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn de Abner Kallil" height="30" width="40" />
-  </a>
-  <a href="https://twitter.com/abn_kal" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter de Abner Kallil" height="30" width="40" />
   </a>
 </p>
 
